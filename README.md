@@ -2,6 +2,9 @@
 ## spring-projects/spring-framework
 - https://github.com/spring-projects/spring-framework/pull/29788
 
+## spring-projects/spring-boot
+- https://github.com/spring-projects/spring-boot/pull/33732
+
 ## rust-lang/book
 - https://github.com/rust-lang/book/pull/3296
 
