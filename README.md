@@ -4,6 +4,7 @@
 
 ## spring-projects/spring-boot
 - https://github.com/spring-projects/spring-boot/pull/33732
+- https://github.com/spring-projects/spring-boot/pull/33896
 
 ## rust-lang/book
 - https://github.com/rust-lang/book/pull/3296
@@ -24,3 +25,11 @@
 
 ## pingcap/tispark
 - https://github.com/pingcap/tispark/pull/2315
+
+## pingcap/awesome-database-learning
+- https://github.com/pingcap/awesome-database-learning/pull/46
+
+## datafuselabs/databend
+- https://github.com/datafuselabs/databend/pull/7109
+
+
