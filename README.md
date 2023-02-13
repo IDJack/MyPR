@@ -18,6 +18,7 @@
 - https://github.com/fenixsoft/awesome-fenix/pull/336
 - https://github.com/fenixsoft/awesome-fenix/pull/347
 - https://github.com/fenixsoft/awesome-fenix/pull/348
+- https://github.com/fenixsoft/awesome-fenix/pull/349
 
 ## talent-plan/tinykv
 - https://github.com/talent-plan/tinykv/pull/387
