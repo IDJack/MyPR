@@ -35,4 +35,12 @@
 ## datafuselabs/databend
 - https://github.com/datafuselabs/databend/pull/7109
 
+## Apache IoTDB
+- https://github.com/apache/iotdb/pull/9065
+- https://github.com/apache/iotdb/pull/9066
+- https://github.com/apache/iotdb/pull/9067
+
+## tangwz/DistSysDeepDive
+- https://github.com/tangwz/DistSysDeepDive/pull/5
+
 
