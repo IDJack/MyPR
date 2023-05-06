@@ -9,6 +9,9 @@
 ## rust-lang/book
 - https://github.com/rust-lang/book/pull/3296
 
+## alibaba/Chat2DB
+- https://github.com/alibaba/Chat2DB/pull/77
+
 ## Alluxio/alluxio
 - https://github.com/Alluxio/alluxio/pull/15136
 
