@@ -11,6 +11,8 @@
 
 ## alibaba/Chat2DB
 - https://github.com/alibaba/Chat2DB/pull/77
+- https://github.com/alibaba/Chat2DB/pull/85
+- https://github.com/alibaba/Chat2DB/pull/86
 
 ## Alluxio/alluxio
 - https://github.com/Alluxio/alluxio/pull/15136
